@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+a {
+    text-decoration: none;
+}
+table {
+    text-align: center;
+    border: solid black 5px;
+}
+
+td {
+    font-size: 0.8rem;
+    border: solid black 1px;
+}
+
+h1 {
+    font-size: 35px;
+    /* color: blueviolet; */
+}
